@@ -1,9 +1,3 @@
-"""
-Shichang Ye
-CS 5001, Fall 2021
-Homework 7 - Connect Four
-"""
-
 import unittest
 from collections import deque
 from connect_four import ConnectFour
