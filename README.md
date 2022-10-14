@@ -7,3 +7,6 @@ Players ("X" or "O") put their pieces in a board and whoever connects four piece
 1. More coding practice with Python.
 2. Separate different functions to achieve decoupling and modularization.
 3. Write test cases for the program.
+
+# Demo of the App
+![Animation](https://raw.githubusercontent.com/Shi-chang/app-connect-four-game/main/Res/demo.gif)
